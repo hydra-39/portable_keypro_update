@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "product": "ANDALAS",
+  "role": "SLAVE",
+  "protocol": "AND1",
+  "latest_version": "S1.17",
+  "min_app_version_code": 2,
+  "file_name": "PORTABLE_KEYPRO_S1.17.and",
+  "file_size": 1202192,
+  "plain_size": 1202080,
+  "plain_checksum": "069FAD38",
+  "sha256": "F4405E4960C35F30A5DF18FF4C499EFB5D7E657BE91E8BF976DF718205F9182B",
+  "fw_url": "https://raw.githubusercontent.com/ISI_OWNER/ISI_REPOSITORY/main/PORTABLE_KEYPRO_S1.17.and",
+  "notes": "Firmware ANDALAS Slave S1.17"
+}
