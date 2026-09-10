@@ -3,13 +3,13 @@
   "product": "ANDALAS",
   "role": "SLAVE",
   "protocol": "AND1",
-  "latest_version": "S1.17",
+  "latest_version": "S11.17",
   "min_app_version_code": 2,
-  "file_name": "PORTABLE_KEYPRO_S1.17.and",
-  "file_size": 1202192,
-  "plain_size": 1202080,
-  "plain_checksum": "069FAD38",
-  "sha256": "F4405E4960C35F30A5DF18FF4C499EFB5D7E657BE91E8BF976DF718205F9182B",
-  "fw_url": "https://raw.githubusercontent.com/hydra-39/portable_keypro_update/main/PORTABLE_KEYPRO_S1.17.and",
-  "notes": "Firmware ANDALAS Slave S1.17"
+  "file_name": "PORTABLE_KEYPRO_S11.17.and",
+  "file_size": 1201984,
+  "plain_size": 1201872,
+  "plain_checksum": "069F5F3E",
+  "sha256": "3724F374C87A6339349139A988836B2440BE4E871D8D40FF61D6D6A0AEF60DD7",
+  "fw_url": "https://raw.githubusercontent.com/hydra-39/portable_keypro_update/main/PORTABLE_KEYPRO_S11.17.and",
+  "notes": "Firmware ANDALAS Slave S11.17"
 }
